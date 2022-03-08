@@ -1,0 +1,1 @@
+-Crear una imagen y un input (solo de lectura) que al darle click en la imagen gire la imagen 20° grados hacia la derecha aumentando tambien el input su valor comenzando desde 0 y al llegar a 360 reiniciara el contador a 0 a la vez que la imagen su posicion inicial.
